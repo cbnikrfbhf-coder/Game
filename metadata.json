@@ -1,6 +1,0 @@
-{
-  "name": "جنگ با نیمه ی تاریکی",
-  "description": "یک بازی شوتر فضایی حماسی برای مبارزه با رذایل اخلاقی و غول‌های تاریکی در ۳۰ مرحله شگفت‌انگیز.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
